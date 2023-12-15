@@ -22,7 +22,7 @@ Statistical Analysis
 
 1.	Use your data to determine whether the mean or the median better summarizes the data.
    
-- The mean better summarize the data because the distribution is uniform and has a small number of outliers.
+- The median better summarize the data because the distribution is not uniform and has a large number of outliers.
 
 2.	Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
    
