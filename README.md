@@ -29,5 +29,4 @@ Statistical Analysis
 - There is more variability with successful campaigns because the data set is bigger and with a higher maximum.
 
 
-![image](https://github.com/carojasp12/Crowdfunding_Analysis/assets/152667250/67e04c99-dc61-4633-9420-e8d81070358d)
 
